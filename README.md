@@ -13,6 +13,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arijit-modak-b42729221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arijit-modak-b42729221/" height="30" width="40" /></a>
+  
+  <a href="https://www.geeksforgeeks.org/user/arijitmozjoy/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210318103632/gfg.png" alt="https://www.geeksforgeeks.org/user/arijitmozjoy/" height="30" width="40" /></a>
+  
 <a href="https://www.hackerrank.com/@arijitmodak2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arijitmodak2003" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arijitmodak2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arijitmodak2003" height="30" width="40" /></a>
 </p>
